@@ -16,7 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
-        android:textColor="#1127a3"
+        android:textColor="#9e11a3"
         android:textSize="35dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
